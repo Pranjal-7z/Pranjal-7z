@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on <br>    a next-generation fullstack creative agency that specializes in modern UI/UX<br><br>👯 I’m looking to collaborate on <br> Open-source projects<br>🌱 I’m currently learning <br>Three js <br>⚡ Fun fact <br> I started coding because younger me thought coding and hacking were the same thing
+🔭 I’m currently working on <br>    a next-generation fullstack creative agency that specializes in modern UI/UX<br><br>👯 I’m looking to collaborate on <br> Open-source projects<br><br>🌱 I’m currently learning <br>Three js <br>,br>⚡ Fun fact <br> I started coding because younger me thought coding and hacking were the same thing
 
 
 ## 🌐 Socials:
