@@ -1,5 +1,4 @@
-# 💫 About Me:
-<br>👯 I’m looking to collaborate on <br> Open-source projects<br><br>🌱 I’m currently learning <br>Three js <br><br>⚡ Fun fact <br> I started coding because younger me thought coding and hacking were the same thing
+
 
 
 ## 🌐 Socials:
